@@ -5,6 +5,7 @@
 /.pnp
 /.lh
 /.history
+/.vscode
 .pnp.js
 
 # testing
